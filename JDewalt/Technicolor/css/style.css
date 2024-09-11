@@ -1,0 +1,41 @@
+html,
+body {
+  background-color: #5d0808;
+ align-items: flex-start;
+}
+
+.divtable{
+	display: table;
+	width:auto;
+}
+
+.form1{
+  padding:3px;
+
+}
+
+.divrow{
+	display: table-row;
+	width: auto;
+
+}
+
+.box {
+  background-color: #444;
+  border: 1px solid black;
+  display: table-cell;
+	height: 100px;
+  width: 100px;
+  z-index: 1;
+}
+
+div{
+	text-align: left;
+}
+
+.BTN{
+  align-items: flex-start;
+  height:30;
+  width: 70;
+
+}
